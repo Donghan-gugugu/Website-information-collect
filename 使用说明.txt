@@ -1,0 +1,6 @@
+一个简单whois网站信息收集工具
+安装whois模块命令：pip install python-whois
+
+需要一个地址
+
+python shegong.py "www.xxxx.com"
